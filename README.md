@@ -3,4 +3,4 @@
 Симуляция системы управления дроном.
 
 Меню: 
-![alt text](screenshots/filename.png "Описание будет тут")
+![alt text](2rFzJ6NcKYQ.jpg "Описание будет тут")
