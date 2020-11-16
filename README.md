@@ -15,10 +15,10 @@
  
  Прочие элементы интерфейса :
  
- ![alt text](WPBAyf206Lw.jpg.jpg
+ ![alt text](WPBAyf206Lw.jpg
  "Описание будет тут")
  
- ![alt text](oRTSXhk66bY.jpg.jpg
+ ![alt text](oRTSXhk66bY.jpg
  "Описание будет тут")
  
  ![alt text](7bKy3jeGn6E.jpg
