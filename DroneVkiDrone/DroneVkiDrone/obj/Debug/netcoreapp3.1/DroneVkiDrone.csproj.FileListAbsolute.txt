@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\bin\Debug\netcoreapp3.1\DroneVkiDrone.exe
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\bin\Debug\netcoreapp3.1\DroneVkiDrone.deps.json
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\bin\Debug\netcoreapp3.1\DroneVkiDrone.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\bin\Debug\netcoreapp3.1\DroneVkiDrone.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\bin\Debug\netcoreapp3.1\DroneVkiDrone.dll
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\bin\Debug\netcoreapp3.1\DroneVkiDrone.pdb
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\obj\Debug\netcoreapp3.1\DroneVkiDrone.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\obj\Debug\netcoreapp3.1\DroneVkiDrone.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\obj\Debug\netcoreapp3.1\DroneVkiDrone.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\obj\Debug\netcoreapp3.1\DroneVkiDrone.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\obj\Debug\netcoreapp3.1\DroneVkiDrone.dll
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\obj\Debug\netcoreapp3.1\DroneVkiDrone.pdb
+C:\Users\Lenovo\source\repos\DroneVkiDrone\DroneVkiDrone\obj\Debug\netcoreapp3.1\DroneVkiDrone.genruntimeconfig.cache
